@@ -1,0 +1,84 @@
+
+Warrior
+Jaguar
+Maori Warrior
+Scout
+Archer
+Bowman
+Slinger
+Trireme
+Chariot Archer
+War Chariot
+War Elephant
+Spearman
+Hoplite
+Immortal
+Horseman
+Companion Cavalry
+Catapult
+Ballista
+Swordsman
+Mohawk Warrior
+Legion
+Pikeman
+Landsknecht
+Knight
+Camel Archer
+Keshik
+Naresuan's Elephant
+Mandekalu Cavalry
+Conquistador
+Crossbowman
+Chu-Ko-Nu
+Longbowman
+Trebuchet
+Hwacha
+Longswordsman
+Berserker
+Samurai
+Caravel
+Turtle Ship
+Musketman
+Minuteman
+Musketeer
+Janissary
+Tercio
+Frigate
+Ship of the Line
+Cannon
+Lancer
+Sipahi
+Cavalry
+Cossack
+Rifleman
+Norwegian Ski Infantry
+Ironclad
+Anti-Tank Gun
+Infantry
+Foreign Legion
+Artillery
+Submarine
+Battleship
+Anti-Aircraft Gun
+Carrier
+Fighter
+Zero
+Destroyer
+Tank
+Panzer
+Mechanized Infantry
+Bomber
+Paratrooper
+B-17 Bomber
+Mobile SAM
+Nuclear Submarine
+Helicopter Gunship
+Rocket Artillery
+Jet Fighter
+Modern Armor
+Atomic Bomb
+Missile Cruiser
+Guided Missile
+Stealth Bomber
+Nuclear Missile
+Giant Death Robot
