@@ -19,7 +19,9 @@ def get_listing():
         units = [unit.strip() for unit in infile]
     jobs = pycorpora.technology.computer_sciences['computer_sciences']
     while True:
-        yield choice(framings).format(choice(jobs), choice(units))
+        output = choice(framings).format(choice(jobs), choice(units))
+        print('tweeting: ' + output)
+        yield output
 
 
 if __name__ == '__main__':
